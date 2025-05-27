@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋</h1>
 
 <h2 align="left">Sobre mí</h2>
-<p>Estudiante de Física en la Universidad de Antioquia, apasionado por la física de altas energías y el análisis de datos. Tengo experiencia práctica en técnicas experimentales y computacionales, incluyendo desarrollo de software (C++, Python) e investigación colaborativa en proyectos de ciencia fundamental. Actualmente, aspiro a contribuir a investigaciones de vanguardia a través de programas como el DESY Summer Student Programme 2025.</p>
+<p>Estudiante de Física en la Universidad de Antioquia, apasionado por la física de altas energías y el análisis de datos. Tengo experiencia práctica en técnicas experimentales y computacionales, incluyendo desarrollo de software (C++, Python) e investigación colaborativa en proyectos de ciencia fundamental.</p>
 
 ---
 
@@ -14,14 +14,6 @@
 </p>
 <p>Herramientas adicionales: ROOT, COMSOL, OriginLab, Inkscape</p>
 
----
-
-<h3>Mis estadísticas en GitHub</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanJ27&show_icons=true&theme=dark&locale=en&layout=compact" alt="JuanJ27" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JuanJ27&show_icons=true&theme=dark&locale=en" alt="JuanJ27" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJ27&theme=dark" alt="JuanJ27" /></p>
-
----
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
