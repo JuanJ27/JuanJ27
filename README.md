@@ -17,7 +17,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan-montoya" target="_blank">LinkedIn</a> | 
+<a href="www.linkedin.com/in/juan-montoya-68262071" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/JuanJ27" target="_blank">GitHub</a> | 
 <a href="https://orcid.org/0009-0006-6739-8449" target="_blank">ORCID</a>
 </p>
