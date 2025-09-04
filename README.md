@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋</h1>
 
 <h2 align="left">Sobre mí</h2>
-<p>Soy gay</p>
 <p>Estudiante de Física en la Universidad de Antioquia, apasionado por la física de altas energías y el análisis de datos. Tengo experiencia práctica en técnicas experimentales y computacionales, incluyendo desarrollo de software (C++, Python) e investigación colaborativa en proyectos de ciencia fundamental.</p>
 
 ---
