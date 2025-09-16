@@ -3,23 +3,14 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=JuanJ27&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/JuanJ27)
 
 ## About Me
-Physics undergraduate at Universidad de Antioquia, specializing in high-energy physics, quantum computing, machine learning, statistical data analysis, CERN ROOT, Geant4, MadGraph, Python, C++, and PennyLane. Passionate about fundamental science, computational techniques, and collaborative research projects.
+Physics undergraduate at Universidad de Antioquia, passionate about high-energy physics, quantum computing, machine learning, and data analysis. Experienced in computational tools like CERN ROOT, Geant4, MadGraph, Python, C++, and PennyLane. Focused on fundamental research and innovative projects.
 
 ## Technical Skills
-### Programming
-- C++, Python, BASH, MicroPython, LaTeX, SQL
-
-### HEP Software
-- ROOT, Geant4, MadGraph5, uproot
-
-### ML & Quantum
-- PyTorch, TensorFlow, scikit-learn, PennyLane
-
-### Scientific
-- NumPy, SciPy, Pandas, Matplotlib, Jupyter, COMSOL, OriginLab
-
-### Tools & Systems
-- Git, Linux, Overleaf
+- **Programming:** C++, Python, BASH, MicroPython, LaTeX, SQL
+- **HEP Software:** ROOT, Geant4, MadGraph5, uproot
+- **ML & Quantum:** PyTorch, TensorFlow, scikit-learn, PennyLane
+- **Scientific:** NumPy, SciPy, Pandas, Matplotlib, Jupyter, COMSOL, OriginLab
+- **Tools & Systems:** Git, Linux, Overleaf
 
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
@@ -33,102 +24,39 @@ Physics undergraduate at Universidad de Antioquia, specializing in high-energy p
 </p>
 
 ## Education
-- **Bachelor’s Degree in Physics**  
-  Universidad de Antioquia, Medellín, Colombia  
-  2019 – Expected 2026  
-  GPA: 3.85/5.0  
+**Bachelor’s in Physics**  
+Universidad de Antioquia, Medellín, Colombia  
+2019 – Expected 2026 (GPA: 3.85/5.0)  
 
-  **Relevant Coursework:**  
-  - **Physics:** Quantum Mechanics, Particle Physics, Statistical Mechanics, Electrodynamics  
-  - **Computing:** Computational Physics, Introduction to Quantum Computing, Big Data Analysis  
-  - **Mathematics:** Linear Algebra, Differential Equations, Numerical Analysis  
-  - **Experimental:** Electronics, Data Acquisition Systems, Signal Processing  
+Relevant coursework: Quantum Mechanics, Particle Physics, Computational Physics, Quantum Computing, Big Data Analysis.
 
-## Research Experience
-### Undergraduate Research Assistant  
-Phenomenology and Fundamental Interactions Group (GFIF), Universidad de Antioquia  
-2024 – Present  
+## Research & Publications
+- **Undergraduate Research Assistant, GFIF Group** (2024–Present): Developed C++ ROOT scripts for low-pT b-jet analysis. [GitHub](https://github.com/JuanJ27/Btagginghep)
+- **Research Intern, Condensed Matter Group** (2023–2024): Contributed to quantum dots studies under external fields.
+  - [Structural modifications in GaAs/AlGaAs tetrapods](https://doi.org/10.1016/j.physleta.2025.130897) (Physics Letters A, 2025)
+  - [Electronic properties of tetrapod QDs](https://doi.org/10.1140/epjp/s13360-024-05089-z) (EPJ Plus, 2024)
+  - [Hopf-link GaAs-AlGaAs quantum ring](https://doi.org/10.1016/j.physe.2024.116032) (Physica E, 2024)
 
-- Developed C++ ROOT scripts to characterize geometric and energetic properties of b-jets and \(\bar{b}\)-jets at low \(p_T\) (< 30 GeV), reading branches from .root files, performing calculations, and generating visualization plots.  
-- Project code: [GitHub](https://github.com/JuanJ27/Btagginghep)  
+## Conferences
+- **9th COMHEP, Pasto** (Dec 2024): Oral presentation on b-jet structure; led CMS Masterclass.
+- **ICTP Physics Without Frontiers School, Ibagué** (Dec 2023): Built NN for Higgs discrimination; attended 8th COMHEP.
 
-### Research Intern  
-Condensed Matter Group, Universidad de Antioquia  
-2023 – 2024  
-
-- Contributed to research on quantum dots, focusing on electronic and optical properties under external fields.  
-  - **[Structural modifications in GaAs/AlGaAs tetrapod nanocrystals under applied pressure and temperature: Electron-impurity properties](https://doi.org/10.1016/j.physleta.2025.130897)**  
-    *Physics Letters A, 2025*  
-    Contribution: Performed temperature and pressure-dependent calculations for electron-impurity interactions. Analyzed structural modifications using COMSOL and developed visualization scripts. Collaborated on manuscript preparation and designed final figures using Inkscape.  
-
-  - **[Electronic and optical properties of tetrapod quantum dots under applied electric and magnetic fields](https://doi.org/10.1140/epjp/s13360-024-05089-z)**  
-    *European Physical Journal Plus, 2024*  
-    Contribution: Ran half of the COMSOL simulations, exported data, processed outputs in OriginLab, improved figures and references in Overleaf with LaTeX, and created final figures in Inkscape.  
-
-  - **[Hopf-link GaAs-AlGaAs quantum ring under geometric and external field settings](https://doi.org/10.1016/j.physe.2024.116032)**  
-    *Physica E: Low-Dimensional Systems and Nanostructures, 2024*  
-    Contribution: Verified potential model implementation in COMSOL and Python. Adjusted manuscript format in Overleaf to meet journal guidelines.  
-
-## Conferences & Presentations
-### 9th Colombian Meeting on High Energy Physics (COMHEP)  
-Pasto, December 2024  
-
-- Oral Presentation: *Systematic Study of the Structure of \(b\)-Jets and \(\bar{b}\)-Jets at Low \(p_T\) (< 30 GeV)*. Presented results from C++ ROOT script developed during research assistantship.  
-- Led CMS Masterclass activity on December 3, 2024, explaining event classification using graphical tools.  
-
-### ICTP Physics Without Frontiers: Colombian Network for High Energy Physics School  
-Ibagué, December 2023  
-
-- Attended lectures on HEP tools including MadGraph5, neural networks for Higgs discrimination, and Compton scattering.  
-- Collaboratively developed a neural network for Higgs signal/background discrimination, handling cross-validation. Attended 8th COMHEP afterward.  
-
-## Personal Projects
-### LowPt-Jet-Qml: Quantum Machine Learning for Particle Physics  
-2025 | [GitHub](https://github.com/JuanJ27/LowPt-Jet-Qml)  
-
-- Implemented and compared Quantum ML techniques with classical ML for low-pT b-jet tagging.  
-- Developed quantum neural networks using PennyLane with Angle Embedding for 16-qubit circuits.  
-- Analyzed datasets from different PT ranges using uproot, evaluating models with AUC and tagging power metrics.  
-
-### SensorArray: Experimental Physics Course Final Project  
-2025 | [GitHub](https://github.com/JuanJ27/SensorArray-for-laser-Lissajous-curves)  
-
-- Designed and built a data acquisition system with phototransistors for laser pattern detection.  
-- Implemented MicroPython code for ESP32 to collect and process sensor data.  
-- Developed signal processing algorithms for real-time analysis of light patterns.  
-
-### Biospeckle-ML: First Place Winner, Physics Experimental Fair  
-2024 | [GitHub](https://github.com/JuanJ27/Biospeckle-ML)  
-
-- Designed optical system to capture biospeckle in blueberries.  
-- Developed C++ algorithms with OpenCV for image processing and statistical analysis.  
-- Created neural network classifier with scikit-learn and PyTorch, achieving 89% accuracy in quality assessment.  
-- Presented statistical validation with hypothesis testing and confidence intervals.  
-
-### United Nations Datathon 2024: Sustainable Tourism Analysis  
-Medellín, November 2024 | Second Place Winner in Student Category | [GitHub](https://github.com/JuanJ27/UN-Datathon-sisifos)  
-
-- Developed data analysis pipeline for tourism impact on Medellín's sustainable development.  
-- Collected, cleaned, and preprocessed urban datasets using Python.  
-- Created interactive visualizations with GeoPandas and Plotly for spatial patterns.  
-- Collaborated to present findings to UN Development Program representatives.  
-
-### NASA Space Apps Challenge 2024: Community Mapping  
-Medellín, October 2024 | [GitHub](https://github.com/tonnysoyyo/NASA-Space-Apps)  
-
-- Led data acquisition and processing for socioeconomic mapping of Medellín.  
-- Gathered demographic, economic, and infrastructure data from government sources.  
-- Collaborated with frontend developers for data visualization in the application.  
+## Selected Projects
+- **LowPt-Jet-Qml** (2025): Quantum ML for low-pT b-jet tagging with PennyLane. [GitHub](https://github.com/JuanJ27/LowPt-Jet-Qml)
+- **SensorArray** (2025): Data acquisition system for laser patterns using ESP32. [GitHub](https://github.com/JuanJ27/SensorArray-for-laser-Lissajous-curves)
+- **Biospeckle-ML** (2024): Biospeckle analysis for blueberry quality (89% accuracy; 1st Place Physics Fair). [GitHub](https://github.com/JuanJ27/Biospeckle-ML)
+- **UN Datathon 2024** (Nov 2024): Sustainable tourism analysis (2nd Place Student). [GitHub](https://github.com/JuanJ27/UN-Datathon-sisifos)
+- **NASA Space Apps 2024** (Oct 2024): Socioeconomic mapping of Medellín. [GitHub](https://github.com/tonnysoyyo/NASA-Space-Apps)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/juan-montoya-68262071/)  
-- [GitHub](https://github.com/JuanJ27)  
-- [ORCID: 0009-0006-6739-8449](https://orcid.org/0009-0006-6739-8449)  
-- [ScopusID: 58973544700](https://www.scopus.com/authid/detail.uri?authorId=58973544700)  
-- Email: [juan.montoya110@udea.edu.co](mailto:juan.montoya110@udea.edu.co)  
-- Phone: +57 300 366 8854  
+- [LinkedIn](https://www.linkedin.com/in/juan-montoya-68262071/)
+- [GitHub](https://github.com/JuanJ27)
+- [ORCID: 0009-0006-6739-8449](https://orcid.org/0009-0006-6739-8449)
+- [Scopus: 58973544700](https://www.scopus.com/authid/detail.uri?authorId=58973544700)
+- Email: [juan.montoya110@udea.edu.co](mailto:juan.montoya110@udea.edu.co)
+- Phone: +57 300 366 8854
 
 ---
 
 [JuanJ27](https://github.com/JuanJ27)  
-Last updated: September 15, 2025
+Last updated: September 16, 2025
